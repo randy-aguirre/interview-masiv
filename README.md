@@ -1,6 +1,6 @@
 # Interview by Masiv
 
-Este proyecto fue desarrollado con la plantilla de [Create React App](https://github.com/facebook/create-react-app). Es una app para hacer calificaciones sobre tiras cómicas obtenidas aleatoriamente de [kcd API](https://xkcd.com/json.html).
+Este proyecto fue desarrollado con la plantilla de [Create React App](https://github.com/facebook/create-react-app). Es una app para hacer calificaciones sobre tiras cómicas obtenidas aleatoriamente de [xkcd API](https://xkcd.com/json.html).
 
 ## Instalación
 
